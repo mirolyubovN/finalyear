@@ -1,0 +1,10 @@
+/home/nikita/Desktop/project/mi-extrinsic-calib-1.0/build/CMakeFiles/edit_cache.dir
+/home/nikita/Desktop/project/mi-extrinsic-calib-1.0/build/CMakeFiles/rebuild_cache.dir
+/home/nikita/Desktop/project/mi-extrinsic-calib-1.0/build/src/CMakeFiles/edit_cache.dir
+/home/nikita/Desktop/project/mi-extrinsic-calib-1.0/build/src/CMakeFiles/rebuild_cache.dir
+/home/nikita/Desktop/project/mi-extrinsic-calib-1.0/build/src/common/CMakeFiles/edit_cache.dir
+/home/nikita/Desktop/project/mi-extrinsic-calib-1.0/build/src/common/CMakeFiles/rebuild_cache.dir
+/home/nikita/Desktop/project/mi-extrinsic-calib-1.0/build/src/common/CMakeFiles/common.dir
+/home/nikita/Desktop/project/mi-extrinsic-calib-1.0/build/src/calibration/CMakeFiles/edit_cache.dir
+/home/nikita/Desktop/project/mi-extrinsic-calib-1.0/build/src/calibration/CMakeFiles/rebuild_cache.dir
+/home/nikita/Desktop/project/mi-extrinsic-calib-1.0/build/src/calibration/CMakeFiles/mi-extrinsic-calib.dir
